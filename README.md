@@ -10,3 +10,6 @@ Similar to Simple Moving Average Startegy, this strategy's parameters are also f
 
 ## MFI Index Strategy
 This strategy requires some parameter that you need to adjust in the process. The variable 'Boundary' is used for for balancing money return of the strategy and the volatility of that stock's strategy. With a high value may give you a startegy with high return but high risk and a low value may give you low return and low risk. After performing sensitive analysis, the more precise stock data users use, the higher return you may get, the precisio of data can be adjusted from the variable 'interval', you can check it up in yahoo finance.
+
+## Exponential Moving Average
+This trading strategy is a renewed version of simple moving asverage strategy. It gives stock prices that are close to the stock's current position a higher weight, so it may closer to reality. It performs better after parameter adjustment than simple moving average. As it involves parameter adjustment, it may be more complicated to handle than simple moving strategy. 
