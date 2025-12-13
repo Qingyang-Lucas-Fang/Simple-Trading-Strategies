@@ -2,7 +2,7 @@
 This project is a part of the upcoming app which will enable greenhorn of quant finance to have an insight into the backtest of the past data of any stock included in yahoo finance. It will analyze the best trading strategy, only have buying long and selling short included, of the stock in 2025.
 This project will include 10 or more simple quant trading startegies included simple moving average, MFI, and mean reversion strategy, which have already been finished.
 
-#Useful Information
+## Useful Information
 In my algorithm, a Position value of 100 represents buying long and a Position value of -100 represents selling short. The first notebook bar is the function that generates the trading strategy. You can change some parameters to balance the return and risks (stock volatility).
 
 ## Simple Moving Average
