@@ -17,3 +17,9 @@ This strategy requires some parameter that you need to adjust in the process. Th
 
 ## Exponential Moving Average
 This trading strategy is a renewed version of simple moving asverage strategy. It gives stock prices that are close to the stock's current position a higher weight, so it may closer to reality. It performs better after parameter adjustment than simple moving average. As it involves parameter adjustment, it may be more complicated to handle than simple moving strategy. 
+
+# Future Developments
+We will create amd implement a new risk hedging operator to our trading strategy due to the high variance of the trading strategy given by my simple trading strategies. The risk hedger will hopefully improve Sharpe Ratio of 10% to 20% and reduce the variance to the expected variance of the stock's natural growth's 15% to 35% based on the strategy adopted at that stock. So, hang tight for future development! 
+
+# In The End
+Plz Leave a star at this repo if you like this, and fell free to leave a comment for possible improvements for this repo, I really appreciate that!
