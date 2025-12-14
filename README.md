@@ -4,8 +4,11 @@ This project will include 10 or more simple quant trading startegies included si
 
 # Acknowledgement
 This content is dedicated to the devotion of 2 parties: The first is Simple Quantitative Trading Strategies (SQTS), operated and led by Qingyang (Lucas) Fang:
+
 <img width="480" height="240" alt="logo2" src="https://github.com/user-attachments/assets/a9294a34-4dd4-44c7-a571-fd0fc6789163" />
+
 The second is General Math Review (GMR), a local math journal who provoded vital mathematical ans stat support to this content:
+
 <img width="439" height="141" alt="截屏2025-09-10 上午8 31 50" src="https://github.com/user-attachments/assets/6161747e-ed12-4feb-8483-ba3260542a6c" />
 
 
