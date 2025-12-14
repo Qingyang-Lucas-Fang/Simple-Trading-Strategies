@@ -1,7 +1,14 @@
 # Overview
 This project is a part of the upcoming app which will enable greenhorn of quant finance to have an insight into the backtest of the past data of any stock included in yahoo finance. It will analyze the best trading strategy, only have buying long and selling short included, of the stock in 2025. This project is about QUANTITATIVE ALGORITHM TRADING.
 This project will include 10 or more simple quant trading startegies included simple moving average, MFI, exponential moving average and mean reversion strategy, which have already been finished.
+
+# Acknowledgement
+This content is dedicated to the devotion of 2 parties: The first is Simple Quantitative Trading Strategies (SQTS), operated and led by Qingyang (Lucas) Fang:
 <img width="1280" height="640" alt="logo2" src="https://github.com/user-attachments/assets/a9294a34-4dd4-44c7-a571-fd0fc6789163" />
+The second is General Math Review (GMR), a local math journal who provoded vital mathematical ans stat support to this content:
+<img width="439" height="141" alt="截屏2025-09-10 上午8 31 50" src="https://github.com/user-attachments/assets/6161747e-ed12-4feb-8483-ba3260542a6c" />
+
+
 
 ## Useful Information
 In my algorithm, a Position value of 100 represents buying long and a Position value of -100 represents selling short. The first notebook bar is the function that generates the trading strategy. You can change some parameters to balance the return and risks (stock volatility).
