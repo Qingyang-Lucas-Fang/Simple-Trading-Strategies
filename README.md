@@ -3,7 +3,7 @@ This project is a part of the upcoming app which will enable greenhorn of quant 
 This project will include 10 or more simple quant trading startegies included simple moving average, MFI, exponential moving average and mean reversion strategy, which have already been finished.
 
 # Acknowledgement
-This content is dedicated to the devotion of 2 parties: The first is Simple Quantitative Trading Strategies (SQTS), operated and led by Qingyang (Lucas) Fang:
+This content is dedicated to the devotion of 2 parties: The first is Simple Quantitative Trading Strategies (SQTS), operated and led by Yicheng (Michael) Qiu:
 
 <img width="1280" height="640" alt="logo2" src="https://github.com/user-attachments/assets/a9294a34-4dd4-44c7-a571-fd0fc6789163" />
 
@@ -42,4 +42,4 @@ We will introduce a simple optimizer to help users to adjust parameters for the 
 We will create amd implement a new risk hedging operator to our trading strategy due to the high variance of the trading strategy given by my simple trading strategies. The risk hedger will hopefully improve Sharpe Ratio of 10% to 20% and reduce the variance to the expected variance of the stock's natural growth's 15% to 35% based on the strategy adopted at that stock. So, hang tight for future development! 
 
 # In The End
-Plz Leave a star at this repo if you like this, and fell free to leave a comment for possible improvements for this repo, I really appreciate that! If you want to cooperate, just reach out at <LucasFang2@outlook.com>
+Plz Leave a star at this repo if you like this, and fell free to leave a comment for possible improvements for this repo, I really appreciate that! If you want to cooperate, just reach out at <michaelqiu0606@outlook.com>
