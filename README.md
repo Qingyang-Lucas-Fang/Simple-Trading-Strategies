@@ -35,11 +35,8 @@ This trading strategy is a renewed version of simple moving asverage strategy. I
 
 
 # Future Developments
-## Parameter Optimization
-We will introduce a simple optimizer to help users to adjust parameters for the startegies to balance risk and returns using Sharpe Ratio as the criteria. This is an automatic process and may take a few more seconds to run the code.
-
-## Risk Hedging
-We will create amd implement a new risk hedging operator to our trading strategy due to the high variance of the trading strategy given by my simple trading strategies. The risk hedger will hopefully improve Sharpe Ratio of 10% to 20% and reduce the variance to the expected variance of the stock's natural growth's 15% to 35% based on the strategy adopted at that stock. So, hang tight for future development! 
+## More Precise Alpha
+The alpha I used is largely self-invented, so alpha that are more alert to market situation may improve my stratgies more than anything. The fact is that my strategy may enter a long position or a short position later than the the exact time. This will result in loss of return and higher risk.
 
 # In The End
 Plz Leave a star at this repo if you like this, and fell free to leave a comment for possible improvements for this repo, I really appreciate that! If you want to cooperate, just reach out at <LucasFang2@outlook.com>
